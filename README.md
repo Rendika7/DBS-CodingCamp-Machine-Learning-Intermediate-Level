@@ -20,7 +20,7 @@ The content is designed to be hands-on, with a focus on applying concepts to rea
 ## Structure
 
 The repository is organized as follows:
-
+```
 DBS-CodingCamp-Machine-Learning-Intermediate-Level/
 │
 ├── Submission 1 - Proyek Analisis Sentimen/
@@ -47,7 +47,7 @@ DBS-CodingCamp-Machine-Learning-Intermediate-Level/
 │
 ├── .gitattributes                    # Git attributes file
 └── README.md                         # Repository readme file
-
+```
 
 ## Getting Started
 
