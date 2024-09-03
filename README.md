@@ -1,4 +1,5 @@
 # DBS-CodingCamp-Machine-Learning-Intermediate-Level
+![DBS Coding Camp Banner](https://raw.githubusercontent.com/Rendika7/DBS-CodingCamp-Machine-Learning-Intermediate-Level/main/source/Landing%20Page%20DBS-Foundation.png)
 
 Welcome to the **DBS Coding Camp: Machine Learning Intermediate Level** repository. This repository contains materials, code examples, and exercises designed to help participants enhance their understanding and skills in machine learning at an intermediate level.
 
